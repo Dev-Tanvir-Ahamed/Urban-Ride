@@ -1,0 +1,13 @@
+img{
+    width:150px;
+    height:150px;
+}
+h2{
+    margin-top:20px;
+    text-decoration: none;
+}
+.vehicles{
+    float: left;
+    margin-top:80px;
+    margin-right:100px
+}

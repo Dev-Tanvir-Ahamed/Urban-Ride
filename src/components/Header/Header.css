@@ -1,0 +1,24 @@
+.logo{
+    height:25px;
+    width:170px
+}
+.navigation{
+    display:flex;
+    flex-direction:row;
+    margin-left: auto;
+  }
+  
+  .navigation li{
+    margin: 0 15px
+  }
+  .navigation a{
+      color: #111111;
+      font-weight:bold;
+  }
+  .btn_login{
+    display: inline-block;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 15px;
+    border-radius:10px
+  }
