@@ -1,0 +1,23 @@
+.destination {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 80px;
+}
+.car{
+    margin-right: 40px;
+}
+.destination_content_details{
+    margin-top: 40px;
+}
+.destination_content_details span{
+    font-size:25px;
+    font-weight:700
+}
+.people{
+    width:120px;
+    height:120px;
+    margin-right: 20px;
+}
+.destination_all{
+    margin-top:100px
+}

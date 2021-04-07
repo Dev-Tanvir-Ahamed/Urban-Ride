@@ -22,3 +22,10 @@
     padding: 10px 15px;
     border-radius:10px
   }
+  .nav-item{
+    list-style-type: none;
+  }
+  .photo{
+    width:30px;
+    height:30px;
+  }
